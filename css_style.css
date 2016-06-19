@@ -1,0 +1,13 @@
+#btn_1
+{
+			height:30px;
+			width:80px;
+			border:2px solid orange;
+			color:white;
+			background-color: cyan;
+			border-radius: 6px;
+}
+
+table{
+	border: 2px solid black;
+}
